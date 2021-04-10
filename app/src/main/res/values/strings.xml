@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">G4GMVP</string>
+    <string name="app_name">G4GMVP | Architecture</string>
+    <string name="buttonText">Display Next Course</string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="subHeading">G4G Computer Science Online Courses</string>
+    <string name="description">Course Description</string>
 </resources>
